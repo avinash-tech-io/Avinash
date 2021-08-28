@@ -4,36 +4,25 @@ Experience working across QSR, ecommerce, hospitality, real estate & mortgage an
 
 ## Software Engineering & Technology Exposure
 
+### Software Engineering Architecture & Design
+
 Enterprise Architecture Governance | SOLID & OOAD Principles | Cloud TCO Strategy | Capacity Planning & Scalability Management | Cloud-Native Architecture | Distributed Systems & Service Oriented Architecture | Microservices – Application Modernization Strategies & Patterns | Event Sourcing & CQRS | User experience design | Business process design | Domain Modeling - DDD | API Design & Management | Messaging Middleware & Streaming Solutions | TOGAF – ADM | UML Modeling | DevOps 
 
+### Cloud Experience
+Amazon web services (AWS) | Microsoft Azure | GCP
+
+### Software Engineering Practices, Delivery & Program management Experience
+Agile methodologies | SAFe | Scrum | Kanban | Test-driven development | Quality & delivery metrics assessment | Delivery process optimization | Value stream mapping methodology | Feature Management | TDD | BDD
+
+### Technologies & Frameworks
+Microsoft and Most Open-Source frameworks | Programming on Java and C# | REST | XML | SOAP | Java/JEE | Spring Boot | Spring Cloud | .Net &.Net Core | NodeJs & Express | GraphQL | APM | Centralized Logging & Monitoring Frameworks | Git | Maven | Gradle | Kubernetes | Docker | S3 | AWS ElastiCache – Redis | VPC | AWS Auto Scaling | AWS Lambda | API Gateway| MuleSoft | SonarQube | New Relic | Kafka | RabbitMQ | Terraform
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/avinash-tech-io/profile/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 
