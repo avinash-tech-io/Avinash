@@ -35,7 +35,7 @@ Microsoft and Most Open-Source frameworks | Programming on Java and C# | REST | 
 
 ```
 Reach Me On
-* ![](https://github.com/avinash-tech-io/profile/blob/gh-pages/assets/img/LI-In-Bug.png) [LinkedIn](https://www.linkedin.com/in/avinashkaul/)
+* ![](https://github.com/avinash-tech-io/profile/blob/e4742020b8da24695a56cf47ec627b1b609963c5/assets/img/LI-In-Bug.png) [LinkedIn](https://www.linkedin.com/in/avinashkaul/)
 * ![](https://cdn.brandfolder.io/5H442O3W/at/pl546j-7le8zk-afym5u/Slack_Mark_Web.png?height=50&width=50)[Slack](https://softwareengin-s8p3087.slack.com/team/U01FM3VAV8F)
 
 
