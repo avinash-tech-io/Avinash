@@ -6,16 +6,18 @@ Experience working across QSR, ecommerce, hospitality, real estate & mortgage an
 
 ### Software Engineering Architecture & Design
 
+* Digital Tranformation principles & strategies
 * Enterprise Architecture Governance
-* TOGAF – ADM | UML Modeling 
+* TOGAF – ADM 
+* UML Modeling 
 * Software development & delivery
-* Software engineering design | SOLID & OOAD Principles
-* DevSecOps | Capacity Planning | Systems Engineering 
+* Software engineering design - SOLID & OOAD Principles
+* DevSecOps - Capacity Planning - Systems Engineering 
 * Cloud-Native Distributed Systems & Service Oriented Architecture 
-* Microservices – Application Modernization Strategies & Patterns 
-* Domain Modeling - DDD | API Design & Management 
-* Event Sourcing & CQRS | Messaging Middleware & Streaming Solutions 
-* User experience design
+* Microservices - Application Modernization Strategies & Patterns 
+* Domain Modeling - DDD - API Design & Management 
+* Event Sourcing & CQRS - Messaging Middleware & Streaming Solutions 
+* User experience design 
 * Business process design & optimization
 
 ### Cloud Experience
