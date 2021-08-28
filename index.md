@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## Enterprise Solutions & Software Engineering | Digital Transformation | Ethnographic Researcher
 
-You can use the [editor on GitHub](https://github.com/avinash-tech-io/profile/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Experience working across QSR, ecommerce, hospitality, real estate & mortgage and higher education verticals, with contributions in various roles under software development and delivery, technology strategy, digital transformation and pre-sales solutions.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Software Engineering & Technology Exposure
+
+Enterprise Architecture Governance | SOLID & OOAD Principles | Cloud TCO Strategy | Capacity Planning & Scalability Management | Cloud-Native Architecture | Distributed Systems & Service Oriented Architecture | Microservices – Application Modernization Strategies & Patterns | Event Sourcing & CQRS | User experience design | Business process design | Domain Modeling - DDD | API Design & Management | Messaging Middleware & Streaming Solutions | TOGAF – ADM | UML Modeling | DevOps 
+
+
 
 ### Markdown
 
