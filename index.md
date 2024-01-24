@@ -1,6 +1,6 @@
-## Enterprise Solutions & Software Engineering | Digital Transformation | Ethnographic Researcher
+## Digital Transformation | Enterprise Solutions & Software Engineering | Product Engineering
 
-Experience working across QSR, ecommerce, hospitality, real estate & mortgage and higher education verticals, with contributions in various roles under software development and delivery, technology strategy, digital transformation and pre-sales solutions.
+Experience working across QSR, ecommerce, hospitality, real estate & mortgage and higher education verticals, with contributions across various roles under large scale software development and delivery, technology strategy, digital transformation and pre-sales solutions.
 
 ## Software Engineering & Technology Exposure
 
@@ -28,7 +28,6 @@ Agile methodologies | SAFe | Scrum | Kanban | Test-driven development | Quality 
 
 ### Technologies & Frameworks
 Microsoft and Most Open-Source frameworks | Programming on Java and C# | REST | XML | SOAP | Java/JEE | Spring Boot | Spring Cloud | .Net &.Net Core | NodeJs & Express | GraphQL | APM | Centralized Logging & Monitoring Frameworks | Git | Maven | Gradle | Kubernetes | Docker | S3 | AWS ElastiCache – Redis | VPC | AWS Auto Scaling | AWS Lambda | API Gateway| MuleSoft | SonarQube | New Relic | Kafka | RabbitMQ | Terraform
-
 
 
 ```markdown
